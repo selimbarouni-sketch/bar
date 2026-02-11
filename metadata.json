@@ -1,0 +1,6 @@
+
+{
+  "name": "ProfCalc Barème PWA",
+  "description": "Calculatrice de barème installable pour enseignants avec correction en temps réel et thèmes personnalisables.",
+  "requestFramePermissions": []
+}
